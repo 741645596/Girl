@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f44607bd270d4f4eaa8869ed9b5b85c, type: 3}
+  m_Name: Lincoln
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 9113ad6d2c8f758458f54b06bee00825, type: 3}
+  phonemeData:
+  - phoneme: 0
+    time: 0.030852437
+    intensity: 1
+    sustain: 0
+  - phoneme: 4
+    time: 0.052211817
+    intensity: 1
+    sustain: 0
+  - phoneme: 4
+    time: 0.07831773
+    intensity: 1
+    sustain: 0
+  - phoneme: 1
+    time: 0.09255731
+    intensity: 1
+    sustain: 0
+  - phoneme: 7
+    time: 0.11866322
+    intensity: 1
+    sustain: 0
+  - phoneme: 3
+    time: 0.13052955
+    intensity: 1
+    sustain: 0
+  - phoneme: 4
+    time: 0.15900873
+    intensity: 1
+    sustain: 0
+  - phoneme: 2
+    time: 0.19460769
+    intensity: 1
+    sustain: 0
+  - phoneme: 4
+    time: 0.22546013
+    intensity: 1
+    sustain: 0
+  - phoneme: 2
+    time: 0.24919276
+    intensity: 1
+    sustain: 0
+  - phoneme: 4
+    time: 0.26580563
+    intensity: 1
+    sustain: 0
+  - phoneme: 3
+    time: 0.28953826
+    intensity: 1
+    sustain: 0
+  - phoneme: 2
+    time: 0.33225703
+    intensity: 1
+    sustain: 0
+  - phoneme: 4
+    time: 0.35124314
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    time: 0.3607362
+    intensity: 1
+    sustain: 0
+  - phoneme: 4
+    time: 0.3868421
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    time: 0.412948
+    intensity: 1
+    sustain: 0
+  - phoneme: 7
+    time: 0.42481434
+    intensity: 1
+    sustain: 0
+  - phoneme: 3
+    time: 0.4343074
+    intensity: 1
+    sustain: 0
+  - phoneme: 5
+    time: 0.45804003
+    intensity: 1
+    sustain: 0
+  - phoneme: 6
+    time: 0.46990636
+    intensity: 1
+    sustain: 0
+  - phoneme: 2
+    time: 0.49126574
+    intensity: 1
+    sustain: 0
+  - phoneme: 4
+    time: 0.5055054
+    intensity: 1
+    sustain: 0
+  - phoneme: 4
+    time: 0.51737165
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    time: 0.5411043
+    intensity: 1
+    sustain: 0
+  - phoneme: 4
+    time: 0.56246364
+    intensity: 1
+    sustain: 0
+  - phoneme: 4
+    time: 0.5767033
+    intensity: 1
+    sustain: 0
+  - phoneme: 1
+    time: 0.59331614
+    intensity: 1
+    sustain: 0
+  - phoneme: 4
+    time: 0.6075557
+    intensity: 1
+    sustain: 0
+  - phoneme: 0
+    time: 0.62179524
+    intensity: 1
+    sustain: 0
+  - phoneme: 4
+    time: 0.6479012
+    intensity: 1
+    sustain: 0
+  - phoneme: 4
+    time: 0.66451406
+    intensity: 1
+    sustain: 0
+  - phoneme: 1
+    time: 0.6882467
+    intensity: 1
+    sustain: 0
+  - phoneme: 7
+    time: 0.72384566
+    intensity: 1
+    sustain: 0
+  - phoneme: 3
+    time: 0.73096544
+    intensity: 1
+    sustain: 0
+  - phoneme: 4
+    time: 0.7760575
+    intensity: 1
+    sustain: 0
+  emotionData: []
+  gestureData: []
+  version: 1.1
+  length: 4.2136054
+  transcript: 
